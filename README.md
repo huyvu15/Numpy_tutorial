@@ -1,5 +1,5 @@
 # Numpy_tutorial
-
+![numpy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNumPy&psig=AOvVaw1t2CTBAMTjBwG1Rdu-UcjD&ust=1684170983163000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDUmvun9f4CFQAAAAAdAAAAABAE)
 NumPy là một thư viện Python mạnh mẽ và phổ biến cho tính toán số học và xử lý dữ liệu đa chiều. Tên "NumPy" viết tắt cho "Numerical Python". Thư viện này cung cấp một loạt các chức năng và công cụ để làm việc với mảng và ma trận, cho phép thực hiện các phép tính số học và hợp nhất dữ liệu nhanh chóng và hiệu quả.
 
 Dưới đây là một số tính năng chính của NumPy:
@@ -21,6 +21,10 @@ Numpy thường được sử dụng chung với các thư viện khác trong h�
 Cách cài đặt:
 
 > py -m pip install numpy
+
+Khai báo
+
+> import numpy as np
 
 Kiểm tra version hiện tại:
 
