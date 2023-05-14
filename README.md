@@ -36,3 +36,7 @@ Kiểm tra version hiện tại:
 
 4. [Saving and loading arrays](https://github.com/huyvu15/Numpy_tutorial/blob/main/Saving%20and%20loading%20arrays.ipynb)
 
+# Learning at 
+[datacamp](https://app.datacamp.com/learn/courses/introduction-to-numpy)
+
+[w3school](https://www.w3schools.com/python/numpy/default.asp)
