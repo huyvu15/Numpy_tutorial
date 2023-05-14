@@ -19,6 +19,20 @@ Dưới đây là một số tính năng chính của NumPy:
 Numpy thường được sử dụng chung với các thư viện khác trong hệ sinh thái khoa học dữ liệu của Python như Pandas, Matplotlib và SciPy để thực hiện các tác vụ phân tích dữ liệu, xử lý số liệu, vẽ đồ thị, thống kê, học máy và nhiều ứng dụng khác.
 
 Cách cài đặt:
+
 > py -m pip install numpy
+
 Kiểm tra version hiện tại:
+
 > print(np.__version__)
+
+# Các bài học:
+
+1. [Introduct to numpy](https://github.com/huyvu15/Numpy_tutorial/blob/main/Introduct%20to%20numpy.ipynb)
+
+2. [Index and slicing](https://github.com/huyvu15/Numpy_tutorial/blob/main/Index%20and%20slicing.ipynb)
+
+3. [Sumarzing data](https://github.com/huyvu15/Numpy_tutorial/blob/main/Sumarzing%20data.ipynb)
+
+4. [Saving and loading arrays](https://github.com/huyvu15/Numpy_tutorial/blob/main/Saving%20and%20loading%20arrays.ipynb)
+
